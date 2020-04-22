@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "toCyXEXKePU5sy3AzbU4RN/+imm0qgk71VZQje6ctwoSXoH7wHeU1fHPRwqWGAiIN0Kwp2nFfrd5M/UuyXzm0g==",
+  "success": true,
+  "projectFilePath": "D:\\ASP.NETCore MVC\\SignalRWebPack\\SignalRWebPack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.typescript.msbuild\\3.8.3\\microsoft.typescript.msbuild.3.8.3.nupkg.sha512"
+  ],
+  "logs": []
+}
